@@ -27,4 +27,6 @@ TODO: Write history
 
 TODO: Write credits
 
+<<<<<<< HEAD
 ## License
+Mit 
