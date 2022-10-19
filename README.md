@@ -1,5 +1,6 @@
 # vanessa_and_lidiya_midterm
-# ${1:Project Name}
+# ${vanessa_and_lidiya_midterm}
+
 
 TODO: Write a project description
 
@@ -27,6 +28,6 @@ TODO: Write history
 
 TODO: Write credits
 
-<<<<<<< HEAD
+
 ## License
 Mit 
